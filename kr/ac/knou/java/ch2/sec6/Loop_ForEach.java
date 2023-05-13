@@ -1,4 +1,4 @@
-package kr.ac.knou.java.sec6;
+package kr.ac.knou.java.ch2.sec6;
 
 public class Loop_ForEach {
     public static void main(String[] args) {
